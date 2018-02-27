@@ -1,6 +1,6 @@
 ### SVG Placeholder plugin for Craft CMS
 
-A plugin which generates an invisible SVG of specific dimensions for use when lazyloading images in [Craft CMS](http://buildwithcraft.com) templates.
+A plugin which generates an invisible SVG of specific dimensions for use when lazyloading images in [Craft CMS](http://buildwithcraft.com) templates. Works with Craft 2. For Craft 3 support, check out [mblode's fork](https://github.com/mblode/svgplaceholder).
 
 **Installation**
 
